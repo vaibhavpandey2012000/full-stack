@@ -1,0 +1,22 @@
+li{
+    font-weight: bold;
+}
+ul>li{
+    color: pink;
+}
+ol>li{
+    color: rgb(169, 2, 169);
+}
+ul ul li{
+    font-family: unset;
+    font-style: italic;
+}
+
+ol ~ ul{
+    background-color: green;
+    color: green;
+}
+
+/* ol ~ ul{
+    background-color: greenyellow;
+} */
