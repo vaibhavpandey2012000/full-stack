@@ -1,0 +1,31 @@
+*{
+    font-style: italic;
+}
+
+div{
+    color: red;
+}
+p{
+    color: blue;
+    font-size: 20;
+}
+
+.big{
+    font-size: 25pt;
+}
+
+.bold{
+    font-weight: bold;;
+}
+
+#one{
+    background-color: coral;
+}
+#two{
+    padding-left: 40pt;
+}
+
+input[type="text"]{
+    font-size: 8px;
+    width: 300px;
+}
